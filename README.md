@@ -1,4 +1,4 @@
-HCL Hackathon – Data Analytics & Machine Learning Pipeline
+HCL Hackathon
 
 This project implements an end-to-end data engineering and machine learning pipeline for the Retail Store Inventory Forecasting .
 It includes database integration, data preprocessing, exploratory data analysis, feature engineering, model development, and result evaluation.
@@ -72,7 +72,7 @@ The pipeline is implemented in Python (Jupyter Notebook) with MySQL as the data 
    
    Removed irrelevant or redundant columns.
 
-5. Machine Learning Model Development
+5. Model Development
 
    Different models were trained to evaluate performance and select the best fit.
 
@@ -112,10 +112,4 @@ Conclusion:
 
 This project demonstrates a complete, production-ready data analytics pipeline—starting from database integration and ending with meaningful machine learning predictions. It covers all essential data science steps:
 
-✔ Data Extraction
-✔ Preprocessing
-✔ EDA
-✔ Feature Engineering
-✔ Model Building
-✔ Evaluation
-✔ Forecasting
+✔ Data Extraction, Preprocessing, EDA, Feature Engineering, Model Building, Evaluation , Forecasting
