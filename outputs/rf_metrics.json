@@ -1,0 +1,6 @@
+{
+    "model": "RandomForest",
+    "rmse": 3.414,
+    "mae": 2.287,
+    "mape": 0.018
+}
