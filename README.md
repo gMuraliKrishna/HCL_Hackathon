@@ -34,45 +34,45 @@ Ensured smooth data flow for preprocessing and modeling.
 
  2. Data Cleaning & Preprocessing
 
-After importing the dataset, multiple preprocessing steps were performed:
+    After importing the dataset, multiple preprocessing steps were performed:
 
- Steps Completed
+    Steps Completed
 
-Handled missing values.
+     Handled missing values.
 
-Corrected inconsistent date formats using pd.to_datetime.
+     Corrected inconsistent date formats using pd.to_datetime.
 
-Removed duplicate entries.
+     Removed duplicate entries.
 
-Standardized column names.
+     Standardized column names.
 
-Converted categorical variables into numerical form.
+     Converted categorical variables into numerical form.
 
-Normalized or scaled numeric features where needed.
+     Normalized or scaled numeric features where needed.
 
- 3. Exploratory Data Analysis (EDA)
+3. Exploratory Data Analysis (EDA)
 
-EDA was performed to understand patterns, trends, and anomalies in the dataset.
+    EDA was performed to understand patterns, trends, and anomalies in the dataset.
 
 4. EDA Tasks
 
-Visualized distributions of major features.
+   Visualized distributions of major features.
 
-Identified correlations using heatmaps.
+   Identified correlations using heatmaps.
 
-Detected outliers.
+   Detected outliers.
 
-Time-series trend analysis (if applicable).
+   Time-series trend analysis.
 
-Seasonal/periodic pattern detection.
+   Seasonal/periodic pattern detection.
 
 4. Feature Engineering
 
-To improve model performance, new features were created:
-
- Engineered Features
-
-Date-based features (Year, Month, Day, Week, Quarter).
+   To improve model performance, new features were created:
+   
+    Engineered Features
+   
+   Date-based features (Year, Month, Day, Week, Quarter).
 
 Lag features for time-series prediction.
 
